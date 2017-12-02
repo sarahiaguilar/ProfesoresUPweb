@@ -1,0 +1,13 @@
+.myClass{
+  color: #8b1b2e;
+  background: #043255;
+  position: fixed;
+  left: 0;
+  height: 88%;
+}
+.myClass p{
+  color: white;
+}
+.myClass b{
+  color: #8b1b2e;
+}
